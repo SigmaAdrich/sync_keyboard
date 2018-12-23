@@ -5,7 +5,7 @@ Synchronous operation of the keyboard and mouse
 发出键盘指令的电脑为发送端，接收信号的电脑为接收端  
 嗯，懂得人自然知道是用来干什么的。
 
-##运行环境
+## 环境
 python3.6以上  
 windows启动测试模式
 键盘为ps/2接口
