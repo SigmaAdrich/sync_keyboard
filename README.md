@@ -15,12 +15,12 @@ windows启动测试模式
 pynput  
 rabird.winio  
 pywin32（不太确定，因为尝试了多次，安装了好几个win32的库）
-我本地pip list 出来的相关库有，可以都试试，总之import不报错就好了。
-pywin32                            223
-pywinauto                          0.6.5
-pywinio                            0.3.0
-pywinpty                           0.5.4
-
+我本地pip list 出来的相关库有  
+pywin32                            223  
+pywinauto                          0.6.5  
+pywinio                            0.3.0  
+pywinpty                           0.5.4  
+可以都试试，总之import不报错就好了。  
 
 ## 运行
 发送端:进入send目录打开udp_cli.py，修改目标ip和端口为接收端的ip和端口  
